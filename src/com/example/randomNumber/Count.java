@@ -42,6 +42,7 @@ public class Count extends Activity {
         setContentView(linear);
         Log.w("adsf", "dsa");
         Log.w("adsf", "dsa");
+        Log.w("adsf", "dsa");
 
     }
 
