@@ -7,6 +7,7 @@ import com.example.testproject.R;
 import android.app.Activity;
 import android.graphics.Canvas.VertexMode;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.View;
@@ -39,7 +40,7 @@ public class Count extends Activity {
         }
         Toast.makeText(this, "hello", 0).show();
         setContentView(linear);
-        
+        Log.w("adsf", "dsa");
         
     }
 
