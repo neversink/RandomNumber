@@ -43,6 +43,8 @@ public class Count extends Activity {
         Log.w("adsf", "dsa");
         Log.w("adsf", "dsa");
         Log.w("adsf", "dsa");
+        Log.w("adsf", "dsa");
+        Log.w("adsf", "dsa");
 
     }
 
