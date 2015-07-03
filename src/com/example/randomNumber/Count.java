@@ -41,7 +41,8 @@ public class Count extends Activity {
         Toast.makeText(this, "hello", 0).show();
         setContentView(linear);
         Log.w("adsf", "dsa");
-        
+        Log.w("adsf", "dsa");
+
     }
 
 
